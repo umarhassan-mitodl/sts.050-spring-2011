@@ -1,0 +1,32 @@
+leftnav:
+- identifier: 5b94ec60-da2f-7184-3c3d-b22653025645
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 60910745-348b-4284-6dd5-a17958912748
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 8cc46c0d-df13-3162-fa26-412e09e30abd
+  name: Assignments
+  pageRef: /pages/assignments/assignments
+  weight: 30
+- identifier: e326fcc4-1ee0-4d0f-7ee5-4dc9dca1f41c
+  name: Lecture Videos
+  pageRef: /pages/lecture-videos-1
+  weight: 40
+- identifier: f66afd83-8bcc-cf43-2a13-f0969c8a3603
+  name: Guidelines for Preparing Scholarly Essays
+  pageRef: /pages/assignments/essay_guidelines
+  parent: 8cc46c0d-df13-3162-fa26-412e09e30abd
+  weight: 10
+- identifier: e5d434df-d5b5-8372-948a-4ecbeb373157
+  name: First Writing Assignment
+  pageRef: /pages/assignments/first-writing-assignment
+  parent: 8cc46c0d-df13-3162-fa26-412e09e30abd
+  weight: 20
+- identifier: 05c1fd60-8e04-0cb3-37c5-70ff934b18bb
+  name: Final Writing Assignment
+  pageRef: /pages/assignments/final-writing-assignment
+  parent: 8cc46c0d-df13-3162-fa26-412e09e30abd
+  weight: 30
